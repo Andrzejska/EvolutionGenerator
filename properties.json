@@ -1,0 +1,10 @@
+{
+    "delay": "50",
+    "width": "50",
+    "height": "30",
+    "startEnergy": "100",
+    "moveEnergy": "1",
+    "plantEnergy": "15",
+    "jungleRatio": "20",
+    "animalNumber": "10"
+}
