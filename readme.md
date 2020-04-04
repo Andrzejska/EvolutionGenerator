@@ -4,10 +4,6 @@ Niniejsza treść została zaadaptowana na podstawie opisu oraz ilustracji przyg
 Inspiracją dla niego był z kolei książki "Land of Lisp" Conrada Barskiego, który zaś zainspirował się artykułem w
 "Scientific American" :-)
 
-## Formularz z linkiem do repozytorium
-
-https://forms.gle/wCFZecEAk81VAYTM8
-
 
 ## Termin oddania projektu
 
@@ -44,7 +40,6 @@ koniecznie znaleźć więcej jedzenia, zanim zapas energii się wyczerpie.  Musi
 jest zwierzę. Jest to ważne, ponieważ będzie ono przechodzić na sąsiedni kwadracik na mapie świata każdego dnia. Jest
 osiem różnych możliwych obrotów.
 
-<img src="kierunki.jpg"/>
 
 Obrót `0` oznacza, że zwierzę nie zmienia swojej orientacji, obrót `1` oznacza, że zwierzę obraca się o 45°, `2`, o 90°,
 itd. Przykładowo, jeśli zwierzę było skierowane na północ i obrót wynosi `1`, to zwierzę skierowane jest na
